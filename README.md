@@ -1,4 +1,4 @@
-# gl1enc — ultra-light 2-bit / 4-bit / 6-bit sequence encoder/decoder (Python implementation, stdlib only)
+# gl1enc — ultra-light 2-bit / 4-bit / 6-bit sequence encoder/decoder
 
 `gl1enc.py` is a **single-file**, **zero-dependency** Python tool for encoding and decoding biological sequences into a compact **`.gl1` container**.
 
